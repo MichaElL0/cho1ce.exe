@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "56qxyztGmiv0UdUOOpea+ZcfRcNDvbexfL+28MJTkx6iTf+VGJKHdAcuRxqaWL6S2XoRmm7dsv4MsHE3BoUmBg==",
+  "success": true,
+  "projectFilePath": "E:\\Game Development and Code\\cho1ce.exe\\cho1ce\\cho1ce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dkujo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.13\\microsoft.netcore.app.runtime.win-x86.3.1.13.nupkg.sha512",
+    "C:\\Users\\dkujo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.13\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.13.nupkg.sha512",
+    "C:\\Users\\dkujo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.13\\microsoft.aspnetcore.app.runtime.win-x86.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
